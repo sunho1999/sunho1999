@@ -6,8 +6,8 @@ Hello, I am sunho Pyeoung.I am attending Kookmin University.
 ***
 ## Tech
 + python
-  +Algorithm
-  +Project
+  + Algorithm
+  + Project
 + C++
 + JAVA
 ***
