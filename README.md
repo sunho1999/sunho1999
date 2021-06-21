@@ -12,5 +12,15 @@ Hello, I am sunho Pyeoung.I am attending Kookmin University.
     + Captcha
 + C++
 + JAVA
+
 ***
+## Stats
+![sunho99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunho99&show_icons=true&theme=radical&hide=prs,contribs)
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunho99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
