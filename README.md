@@ -12,6 +12,10 @@ thank u !!
     + Foundation_for_Analytics_with_Python
     + Captcha
     + Software project II
+    + Kookmin_uni_car_project
+  + study
+    + python_machine_learning
+  
 + C++
 + JAVA
 
