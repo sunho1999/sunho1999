@@ -6,24 +6,31 @@ thank u !!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunho1999&count_bg=%2379C83D&title_bg=%23555555&icon=piwigo.svg&icon_color=%23EFE9E3&title=sun&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
 
-## Tech
+## Do
 
 + python
   ---
   + Algorithm
     + Baekjoon_study
     + Programmers
+    + SQL
   + Project
-    + Captcha
     + Software project II
     + Kookmin_uni_car_project
     + musinsa_crawling
     + covid_data_analysis
   + study
     + python_machine_learning
+    + Captcha
     + Foundation_for_Analytics_with_Python
     + py_web_crawling
     + KMU_Programmers_AI 
+    + SQLD
+  + Research
+    + PyNNDescent
+  + Contest
+    + Chatterbot with Kookmin Univ Hackertoon
+
 + C++
   --
 + JAVA
