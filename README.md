@@ -13,7 +13,6 @@ thank u !!
   + Algorithm
     + Baekjoon_study
     + Programmers
-    + SQL
   + Project
     + Software project II
     + Kookmin_uni_car_project
@@ -35,7 +34,8 @@ thank u !!
   --
 + JAVA
   --
-
++ SQL
+    + Mysql
 ***
 ## Stats
 ![sunho1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunho1999&show_icons=true&theme=radical&hide=prs,contribs) 
