@@ -6,6 +6,15 @@ thank u !!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunho1999&count_bg=%2379C83D&title_bg=%23555555&icon=piwigo.svg&icon_color=%23EFE9E3&title=sun&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
 
+## Career
+
+Type | Date | Contents | Organization
+:---:|:---:|:---:|:---:
+🎓 Education| 2018.03 ~ ing| Software Engineer | Kookmin University
+Society | 2022.09 ~ ing | AI part | Google Devloper Student Clubs
+🏢 Employment | 2022.06 ~ 2022.08 | Machine learning Engineer | Intelliz 
+
+ 
 ## Do
 
 + python
@@ -31,9 +40,7 @@ thank u !!
     + Chatterbot with Kookmin Univ Hackertoon
 
 + C++
-  --
-+ JAVA
-  --
+  + Algorithm study
 + SQL
     + Mysql
 ***
