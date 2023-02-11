@@ -3,7 +3,7 @@
 Hello, I'm SunHo Pyeoung.<br>
 I'm attending Kookmin University.<br>
 I will graduate in February 2024.<br>
-I major in software, I'm interested in AI/ML and buliding a data pipepline. <br>
+I major in software, I'm interested in AI/ML and customize data pipepline. <br>
 Thank u !!
 ***
 ## Visit
@@ -21,7 +21,7 @@ Society | 2022.09 ~ ing | AI part | Google Devloper Student Clubs
  
 ## Do
 
-+ python
+python
   ---
   + Algorithm
     + Baekjoon_study
@@ -38,20 +38,25 @@ Society | 2022.09 ~ ing | AI part | Google Devloper Student Clubs
     + py_web_crawling
     + KMU_Programmers_AI 
     + SQLD
+    + Big data algorithm recently
   + Research
     + PyNNDescent
+    + Make Sentiment dictionary 
   + Contest
     + Chatterbot with Kookmin Univ Hackertoon
 
-+ C++
+C++
+---
   + Algorithm study
-+ SQL
-    + Mysql
+
+SQL
+---
+  + Mysql
+  + SQLD certificate
 ***
 ## Stats
 ![sunho1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunho1999&show_icons=true&theme=radical&hide=prs,contribs) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wmfrlek1107)](https://solved.ac/wmfrlek1107/)
-
 
 ***
 
