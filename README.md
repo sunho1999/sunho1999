@@ -17,7 +17,7 @@ Type | Date | Contents | Organization
 🎓 Education| 2018.03 ~ ing| Software Engineer | Kookmin University
 Society | 2022.09 ~ ing | AI part | Google Devloper Student Clubs
 🏢 Employment | 2022.06 ~ 2022.08 | Machine learning Engineer | Intelliz 
-🏢 Employment | 2022.12 ~ 2023.02 | Cloud Machine learning Enginner | MegazoneCloud
+🏢 Employment | 2022.12 ~ 2023.02 | Cloud Machine learning Enginner | Megazone Cloud
  
 ## Do
 
