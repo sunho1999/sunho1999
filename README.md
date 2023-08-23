@@ -26,7 +26,7 @@ Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 * [Healendery](https://github.com/sunho1999/mobile_project_Healendery)
 * [Sentiment_dictinoary](https://github.com/sunho1999/sentiment_dictionary)
 * [musinsa_crawling](https://github.com/sunho1999/musinsa_crawling)
-* [Captcah](https://github.com/sunho1999/Captcha)
+* [Captcha](https://github.com/sunho1999/Captcha)
 * [Chatterbot](https://github.com/sunho1999/ChatterBot)
 * [covid_analysis](https://github.com/sunho1999/covid_analysis)
 
