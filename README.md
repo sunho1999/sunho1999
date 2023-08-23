@@ -48,11 +48,11 @@ Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 ***
 
 # certificate
-* SQLD
+* SQLD - 2022
 
 # Awards
-* capstone_design 장려상
-
+* capstone_design 장려상 - 2023
+* 교내 해커톤 최우수상 - 2018
 # Paper
 * [Yolov5 를 활용한 실시간 협잡물 탐지 모델 개발](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023s/abs/0892-KRVPO.pdf)
 
