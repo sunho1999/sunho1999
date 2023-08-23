@@ -23,12 +23,12 @@ Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 
 ## Project
 * [Capstone_design_MLOps](https://github.com/sunho1999/sesohaeng_MLOps)
-* [Healendery](https://github.com/sunho1999/mobile_project_Healendery)
 * [Sentiment_dictinoary](https://github.com/sunho1999/sentiment_dictionary)
 * [musinsa_crawling](https://github.com/sunho1999/musinsa_crawling)
 * [Captcha](https://github.com/sunho1999/Captcha)
 * [Chatterbot](https://github.com/sunho1999/ChatterBot)
 * [covid_analysis](https://github.com/sunho1999/covid_analysis)
+* [Healendery](https://github.com/sunho1999/mobile_project_Healendery)
 
 ## Activities
 * [KMU_AI_BootCamp](https://sunho99.tistory.com/category/KMU_AI_Bootcamp)
