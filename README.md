@@ -6,55 +6,57 @@ I will graduate in February 2024.<br>
 I major in software, I'm interested in AI/ML and customize data pipepline. <br>
 Thank u !!
 ***
-## Visit
+# Visit
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunho1999&count_bg=%2379C83D&title_bg=%23555555&icon=piwigo.svg&icon_color=%23EFE9E3&title=sun&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
 
-## Career
+# Career
 
 Type | Date | Contents | Organization
 :---:|:---:|:---:|:---:
-🎓 Education| 2018.03 ~ ing| Software Engineer | Kookmin University
-Society | 2022.09 ~ ing | AI part | Google Devloper Student Clubs
+🎓 Education| 2018.03 ~ ing| Software engineering, Major  | Kookmin University
+Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 🏢 Employment | 2022.06 ~ 2022.08 | Machine learning Engineer Intern | Intelliz 
 🏢 Employment | 2022.12 ~ 2023.02 | Cloud Machine learning Engineer Intern | Megazone Cloud
  
-## Do
+# Do
 
-python
-  ---
-  + Algorithm
-    + Baekjoon_study
-    + Programmers
-  + Project
-    + Software project II
-    + Kookmin_uni_car_project
-    + musinsa_crawling
-    + covid_data_analysis
-  + study
-    + python_machine_learning
-    + Captcha
-    + Foundation_for_Analytics_with_Python
-    + py_web_crawling
-    + KMU_Programmers_AI 
-    + SQLD
-    + Big data algorithm recently
-  + Research
-    + PyNNDescent
-    + Make Sentiment dictionary 
-  + Contest
-    + Chatterbot with Kookmin Univ Hackertoon
+## Project
+* [Capstone_design_MLOps](https://github.com/sunho1999/sesohaeng_MLOps)
+* [Healendery](https://github.com/sunho1999/mobile_project_Healendery)
+* [Sentiment_dictinoary](https://github.com/sunho1999/sentiment_dictionary)
+* [musinsa_crawling](https://github.com/sunho1999/musinsa_crawling)
+* [Captcah](https://github.com/sunho1999/Captcha)
+* [Chatterbot](https://github.com/sunho1999/ChatterBot)
+* [covid_analysis](https://github.com/sunho1999/covid_analysis)
 
-C++
----
-  + Algorithm study
+## Activities
+* [KMU_AI_BootCamp](https://sunho99.tistory.com/category/KMU_AI_Bootcamp)
+* [Programmers data engineering](https://school.programmers.co.kr/learn/courses/18168/18168-%EB%9D%BC%EC%9D%B4%EB%B8%8C14%EA%B8%B0-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%82%A0%EC%95%84%EC%98%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%8A%A4%ED%83%80%ED%84%B0-%ED%82%A4%ED%8A%B8-with-python)
+* [AWS Academy](https://aws.amazon.com/ko/training/awsacademy/)
+* [GDSC Kookmin](https://sites.google.com/view/gdeveloperskorea/gdsc)
 
-SQL
----
-  + Mysql
-  + SQLD certificate
+## Algorithm
+* [Algorithm_baekjoon](https://github.com/sunho1999/Algorithm)
+* [Programmers](https://github.com/sunho1999/programmers)
+
+## Study
+* [Bigdata_algorithm](https://github.com/sunho1999/Bigdata-algorithm)
+* [data-engineer-starter-kit](https://github.com/sunho1999/data-engineer-starter-kit)
+* [Computer network](https://github.com/sunho1999/Computer_network)
+* [Foundation_for_analytics](https://github.com/sunho1999/Foundation_for_analytics_with_Python)
 ***
-## Stats
+
+# certificate
+* SQLD
+
+# Awards
+* capstone_design 장려상
+
+# Paper
+* [Yolov5 를 활용한 실시간 협잡물 탐지 모델 개발](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023s/abs/0892-KRVPO.pdf)
+
+# Stats
 ![sunho1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunho1999&show_icons=true&theme=radical&hide=prs,contribs) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wmfrlek1107)](https://solved.ac/wmfrlek1107/)
 
