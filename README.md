@@ -59,6 +59,7 @@ Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 * [data-engineer-starter-kit](https://github.com/sunho1999/data-engineer-starter-kit)
 * [Computer network](https://github.com/sunho1999/Computer_network)
 * [Foundation_for_analytics](https://github.com/sunho1999/Foundation_for_analytics_with_Python)
+* [Visual computing](https://github.com/sunho1999/VisualComputing_lecture)
 ***
 
 # certificate
