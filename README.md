@@ -32,6 +32,7 @@ Type | Date | Contents | Organization
 Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 🏢 Employment | 2022.06 ~ 2022.08 | Machine learning Engineer Intern | Intelliz 
 🏢 Employment | 2022.12 ~ 2023.02 | Cloud Machine learning Engineer Intern | Megazone Cloud
+🏢 Employment | 2024.01 ~ 2024.02 | IT Digital developer Intern | Industrial Bank of Korea
  
 # Do
 
@@ -64,6 +65,7 @@ Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 
 # certificate
 * SQLD - 2022
+* OPIC(ENG) IM2 - 2023 
 
 # Awards
 * capstone_design 장려상 - 2023
