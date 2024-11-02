@@ -10,6 +10,7 @@ Thank u !!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunho1999&count_bg=%2379C83D&title_bg=%23555555&icon=piwigo.svg&icon_color=%23EFE9E3&title=sun&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
 
+
 # STACKS
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </br>
@@ -28,7 +29,7 @@ Thank u !!
 
 Type | Date | Contents | Organization
 :---:|:---:|:---:|:---:
-🎓 Education| 2018.03 ~ ing| Software engineering, Major  | Kookmin University
+🎓 Education| 2018.03 ~ 2024.08| Software engineering, Major  | Kookmin University
 Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 🏢 Employment | 2022.06 ~ 2022.08 | Machine learning Engineer Intern | Intelliz 
 🏢 Employment | 2022.12 ~ 2023.02 | Cloud Machine learning Engineer Intern | Megazone Cloud
@@ -39,8 +40,6 @@ Society | 2022.09 ~ 2023.06 | AI part | Google Devloper Student Clubs
 ## Project
 * [Capstone_design_MLOps](https://github.com/sunho1999/sesohaeng_MLOps)
 * [Sentiment_dictinoary](https://github.com/sunho1999/sentiment_dictionary)
-* [musinsa_crawling](https://github.com/sunho1999/musinsa_crawling)
-* [Captcha](https://github.com/sunho1999/Captcha)
 * [Chatterbot](https://github.com/sunho1999/ChatterBot)
 * [covid_analysis](https://github.com/sunho1999/covid_analysis)
 * [Healendery](https://github.com/sunho1999/mobile_project_Healendery)
